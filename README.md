@@ -1,12 +1,25 @@
-# Getting Started with Create React App
+# MIKE-TEC Car Repair Appointment App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://anappointmentapp.netlify.app/
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+In this project, an interactive Appointment Application was developed. On the home page, under the Booking heading, there is the name and image of the repair operation for which an appointment will be made. Below these images is a list of all previously booked appointments.
+When you click on any repair operation, previous appointments for that area and a form to create a new appointment are listed.
+When the image is clicked again, it directs the user back to the home page.
+The app includes data management functions for easy data manipulation and is designed to be responsive providing seamless user experience across devices.
 
-### `npm start`
+## Outcome 🎥
+
+![ApointmentApp](https://github.com/KadirTarti/KadirTarti/assets/150926891/31db2e16-0367-4c2e-b3e3-701109bab7eb)
+
+##Project Planning & Management 👷
+
+
+
+
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
