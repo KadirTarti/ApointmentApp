@@ -13,7 +13,7 @@ The app includes data management functions for easy data manipulation and is des
 
 ![ApointmentApp](https://github.com/KadirTarti/KadirTarti/assets/150926891/31db2e16-0367-4c2e-b3e3-701109bab7eb)
 
-##Project Planning & Management 🗺️
+## Project Planning & Management 🗺️
 
 1-) View Operations:
 
