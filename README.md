@@ -70,25 +70,19 @@ Appointment App(folder)
 ## Objective
 Build a Hospital Appointment App using ReactJS.
 
-### At the end of the project, following topics are to be covered; 🎯
-HTML
+### At the end of the project, we will be able to;
 
-CSS
+⭐ improve coding skills within HTML & CSS & JS & ReactJS.
 
-JS
+⭐ Deleting the data listed from the Data.js file and adding data to the API
 
-ReactJS
+⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-At the end of the project, students will be able to; 💪
-improve coding skills within HTML & CSS & JS & ReactJS.
 
-use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+Contributing & Collaborate 💪
+All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
 
-Additional Data 📦
-data.js
-doctors.js
-assets
-Contributing 🤝
-Your insights and contributions greatly enrich my projects! Whether you're bursting with fresh project concepts or have ideas to enhance existing ones, your input is invaluable. Feel free to open an issue to initiate a dialogue about your thoughts, or submit a pull request with your proposed modifications. Every contribution plays a vital role in my growth and improvement, so thank you for being an integral part of my community!
+
+💻 Happy Coding 💻
 
 
