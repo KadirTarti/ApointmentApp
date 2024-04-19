@@ -35,6 +35,48 @@ The app includes data management functions for easy data manipulation and is des
 
 ## Project Skeleton  👷
 
+
+
+
+Appointment App(folder)
+|
+├── public
+|     ├── index.html
+│     └── manifest.json
+├── src
+│    ├── assets
+│    ├── components
+│    │       ├── addPatient
+│    │       │        ├── AddPatient.css
+│    │       │        └── AddPatient.jsx
+│    │       ├── appointmentCard
+│    │       │        ├── AppointmentCard.css
+|    |       |        └── AppointmentCard.jsx
+│    │       ├── navbar
+│    │       │        ├── Navbar.css
+|    |       |        └── Navbar.jsx
+│    │       └── patientList
+│    │                ├── PatientList.css
+|    |                └── PatientList.jsx
+│    ├── helper
+│    │       ├── data.js
+│    │       └── doctors.js
+│    ├── pages
+│    │       └── Home.jsx
+│    ├── App.js
+│    ├── index.css
+│    └── index.js
+│
+├── .gitignore
+├── appointment-app.gif
+├── LICENSE
+├── package.lock.json
+├── package.json
+└── README.md
+
+
+
+
 Appointment App(folder)
 |
 ├── public
