@@ -2,7 +2,7 @@
 
 https://anappointmentapp.netlify.app/
 
-## Description
+## Description 🟢
 
 In this project, an interactive Appointment Application was developed. On the home page, under the Booking heading, there is the name and image of the repair operation for which an appointment will be made. Below these images is a list of all previously booked appointments.
 When you click on any repair operation, previous appointments for that area and a form to create a new appointment are listed.
