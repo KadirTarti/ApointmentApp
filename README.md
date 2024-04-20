@@ -13,25 +13,6 @@ The app includes data management functions for easy data manipulation and is des
 
 ![ApointmentApp](https://github.com/KadirTarti/KadirTarti/assets/150926891/31db2e16-0367-4c2e-b3e3-701109bab7eb)
 
-## Project Planning & Management 🗺️
-
-1-) View Operations:
-
-- Create a page to display the list of car-repair-service, including their name, specialty and available appointment hours
-- Filter repair-service information from Data.js and pass it to the repair-service list page
-
-2-) View Appointments:
-- Develop a page to display the selected car-repair appointment list, showing appointment date, time, and patient name
-- Retrieve appointment information for the selected car-repair from Data.js and display it on the appointment list page
-
-3-) Add Costumer:
-- Design a form page to add a new appointment to a selected car-repair appointments, with fields for costumer name, date, and time selection
-- Generate a new appointment using the information from the add costumer form and add it to the appointment list of the selected car-repair-service
-
-4-) Data Management:
-- Develop functions to update data, such as adding a new appointment, and set up functions to access Data.js and local storage.
-- Implement functions to update both Data.js and local storage when a new appointment is added.
-
 
 ## Project Skeleton  👷
 
@@ -66,6 +47,26 @@ Appointment App(folder)
 └── README.md
 
 ````
+
+## Project Planning & Management 🗺️
+
+1-) View Operations:
+
+- Create a page to display the list of car-repair-service, including their name, specialty and available appointment hours
+- Filter repair-service information from Data.js and pass it to the repair-service list page
+
+2-) View Appointments:
+- Develop a page to display the selected car-repair appointment list, showing appointment date, time, and patient name
+- Retrieve appointment information for the selected car-repair from Data.js and display it on the appointment list page
+
+3-) Add Costumer:
+- Design a form page to add a new appointment to a selected car-repair appointments, with fields for costumer name, date, and time selection
+- Generate a new appointment using the information from the add costumer form and add it to the appointment list of the selected car-repair-service
+
+4-) Data Management:
+- Develop functions to update data, such as adding a new appointment, and set up functions to access Data.js and local storage.
+- Implement functions to update both Data.js and local storage when a new appointment is added.
+
 
 ## Objective
 Build a Hospital Appointment App using ReactJS.
