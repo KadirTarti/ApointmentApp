@@ -68,7 +68,7 @@ Appointment App(folder)
 - Implement functions to update both Data.js and local storage when a new appointment is added.
 
 
-## Objective
+## Objective 🔍
 Build a Hospital Appointment App using ReactJS.
 
 ### At the end of the project, we will be able to;
