@@ -71,7 +71,7 @@ Appointment App(folder)
 ## Objective 🔍
 Build a Hospital Appointment App using ReactJS.
 
-### At the end of the project, we will be able to;
+### This project helped me develop the following skills:
 
 ⭐ improve coding skills within HTML & CSS & JS & ReactJS.
 
@@ -85,6 +85,6 @@ Build a Hospital Appointment App using ReactJS.
 All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
 
 
-**<p align="center"> 💻 Happy Work 💻 </p>** 
+**<p align="center"> 💻 *Always improve yourself* 💻 </p>** 
 
 
